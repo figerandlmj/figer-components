@@ -1,0 +1,36 @@
+{
+  "name": "my-first-components",
+  "version": "1.0.0",
+  "description": "This is a vue components",
+  "main": "/dist/comps.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --display-error-details --config webpack.config.js",
+    "start": "webpack-dev-server --open --inline --hot --config webpack.config.example.js"
+  },
+  "keywords": [
+    "vue",
+    "components"
+  ],
+  "author": "Figer",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^4.5.0",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.2",
+    "style-loader": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "vue": "^2.6.12",
+    "vue-hot-reload-api": "^2.3.4",
+    "vue-html-loader": "^1.2.4",
+    "vue-loader": "^15.9.5",
+    "vue-router": "^3.4.9",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
