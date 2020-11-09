@@ -1,6 +1,6 @@
 {
   "name": "figer-components",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "This is a vue components",
   "main": "/dist/comps.min.js",
   "scripts": {
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/figerandlmj/figer-components"
+    "url": "git+https://github.com/figerandlmj/figer-components.git"
   },
   "bugs": {
     "url": "https://github.com/figerandlmj/figer-components/issues"
