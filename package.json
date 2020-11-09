@@ -1,6 +1,6 @@
 {
   "name": "figerandlmj-first-components",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "This is a vue components",
   "main": "/dist/comps.min.js",
   "scripts": {
