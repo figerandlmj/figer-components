@@ -2,6 +2,6 @@
 This is Vue Components
 
 # Install(npm)
-`npm install my-first-components`
+`npm install figerandlmj-first-components`
 
 # How to use
