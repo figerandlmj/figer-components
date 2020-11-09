@@ -1,5 +1,5 @@
 {
-  "name": "figerandlmj-first-components",
+  "name": "figer-components",
   "version": "1.0.0",
   "description": "This is a vue components",
   "main": "/dist/comps.min.js",
@@ -12,16 +12,16 @@
     "vue",
     "components"
   ],
-  "author": "Figer",
+  "author": "figer",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/figerandlmj/figerandlmj-first-components"
+    "url": "https://github.com/figerandlmj/figer-components"
   },
   "bugs": {
-    "url": "https://github.com/figerandlmj/figerandlmj-first-components/issues"
+    "url": "https://github.com/figerandlmj/figer-components/issues"
   },
-  "homepage": "https://github.com/figerandlmj/figerandlmj-first-components#readme",
+  "homepage": "https://github.com/figerandlmj/figer-components#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
